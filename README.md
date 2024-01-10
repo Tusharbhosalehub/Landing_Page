@@ -8,3 +8,9 @@ This is a simple web project that demonstrates a responsive navigation menu with
 * Clickable Logo: Clicking the logo opens the side panel with navigation links.
 * Hamburger Menu: Clicking the hamburger icon opens and closes the side panel.
 * Background Image: A dynamic background image adds visual appeal to the website
+
+
+## Technologies-Used
+* HTML
+* CSS
+* JAVASCRIPT
