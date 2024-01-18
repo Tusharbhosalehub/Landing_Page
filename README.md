@@ -15,7 +15,7 @@ This is a simple web project that demonstrates a responsive navigation menu with
 * CSS
 * JAVASCRIPT
 
-
+## Smaple
   
 ![Screenshot 2024-01-18 221047](https://github.com/Tusharbhosalehub/PRODIGY_WD_01/assets/114877970/f242d92f-a15a-4344-9d9c-3e3efc2b7066)
 
