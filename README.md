@@ -1,5 +1,6 @@
 # PRODIGY_WD_01
-## Responsive Landing Page
+## Responsive Landing Page ![CheckTheGIF](https://github.com/Tusharbhosalehub/PRODIGY_WD_01/assets/114877970/e4b94efe-96a5-4868-9536-0e23f4729e31)
+
 # Tushar Foundation - Responsive Education Based Landing Page.
 This is a simple web project that demonstrates a responsive navigation menu with a side panel. The navigation menu includes a logo, a hamburger menu icon, and links to various sections of a website.
 
