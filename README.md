@@ -1,4 +1,4 @@
-# PRODIGY_WD_01
+
 ## Responsive Landing Page 
 
 # Tushar Foundation - Responsive Education Based Landing Page.
