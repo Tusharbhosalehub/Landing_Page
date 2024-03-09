@@ -8,7 +8,7 @@ This is a simple web project that demonstrates a responsive navigation menu with
 * Responsive design: The navigation menu adapts to different screen sizes.
 * Clickable Logo: Clicking the logo opens the side panel with navigation links.
 * Hamburger Menu: Clicking the hamburger icon opens and closes the side panel.
-* Background Image: A dynamic background image adds visual appeal to the website
+* Background Image: A dynamic background image adds visual appeal to the website.
 
 
 ## Technologies-Used
