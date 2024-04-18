@@ -16,7 +16,7 @@ This is a simple web project that demonstrates a responsive navigation menu with
 * CSS
 * JAVASCRIPT
   
-## Contribution
+## Contribution.
 
 Feel free to contribute to the project by suggesting improvements, reporting issues, or submitting pull requests.
 
